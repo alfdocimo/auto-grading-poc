@@ -1,0 +1,14 @@
+{
+  "name": "autograding",
+  "version": "1.0.0",
+  "description": "Basic test for github education autograding",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Alfredo Narvaez",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.5.3"
+  }
+}
